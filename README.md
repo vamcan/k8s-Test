@@ -1,1 +1,1 @@
-# k8s-Test
+# get started with Dotnet core and Kubernetes (k8)
